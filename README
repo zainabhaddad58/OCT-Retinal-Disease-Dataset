@@ -1,0 +1,10 @@
+The Retinal-OCT-Clinical-Dataset is a collection of clinically acquired retinal OCT (Optical Coherence Tomography) images, designed to serve as a benchmark for deep learning models in retinal disease classification.
+The dataset includes images from multiple retinal pathologies:
+      AMD (Age-related Macular Degeneration)
+      DME (Diabetic Macular Edema)
+      RRD (Rhegmatogenous Retinal Detachment)
+      Healthy/Normal cases
+⚠️ Access: To ensure compliance with ethical guidelines and patient privacy, the dataset is available upon reasonable request under controlled access conditions.
+This dataset is suitable for:
+  Training and evaluating deep learning models for retinal disease detection.
+  Benchmarking classification performance across multiple retinal pathologies.
